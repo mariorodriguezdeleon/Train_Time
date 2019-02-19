@@ -1,0 +1,10 @@
+
+    #train-table, table th, table td {
+      display: inline-block;
+      width: 16.575%;
+    }
+
+    .jumbotron {
+        background-color: rgb(8, 8, 8); 
+        color: white
+    }
